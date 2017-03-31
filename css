@@ -1,0 +1,33 @@
+.html {
+  background: url("http://az616578.vo.msecnd.net/files/2014/09/05/635455437327141141-1963008910_the_avatar_cycle_by_wildcard24-d6wd5m2.imgopt1400x60.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#quote-space {
+
+  min-height: 230px;
+}
+
+#trans {
+  background: rgba(50,50,50,0.6);
+  padding: 15px;
+  border-radius:20px;
+}
+
+#twitter {
+  cursor:pointer;
+}
+
+#currentQuote {
+  color:white;
+}
+
+#currentAuthor {
+  color:white;
+}
+.btn-default {
+  width:100%;
+}
