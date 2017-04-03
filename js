@@ -75,7 +75,7 @@ function shareTweet() {
     "use strict";
     var quoteToTweet = quotes[currentIndx].quote;
     if (quoteToTweet.length > 120) {
-        quoteToTweet = quoteToTweet.substr(0, 100).match(/(^.+)\s/)[1] + "...";
+        quoteToTweet = quoteToTweet.substr(0, 100).match(/(^[\w\W]+)s/)[1] + "...";
     }
 
     quoteToTweet = encodeURI('"' + quoteToTweet + '"');

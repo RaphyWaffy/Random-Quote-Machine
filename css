@@ -1,9 +1,26 @@
+* {
+  font-family: 'Cormorant Unicase';
+
+}
 .html {
   background: url("http://az616578.vo.msecnd.net/files/2014/09/05/635455437327141141-1963008910_the_avatar_cycle_by_wildcard24-d6wd5m2.imgopt1400x60.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+    color: white;
+    font-size: 70px;
+}
+
+h2 {
+    font-family: 'Lobster Two', cursive;
+    color: white;
+    font-size: 40px;
+
 }
 
 #quote-space {
@@ -23,11 +40,14 @@
 
 #currentQuote {
   color:white;
+  font-size: 25px;
 }
 
 #currentAuthor {
   color:white;
+  font-size: 25px;
 }
 .btn-default {
   width:100%;
+  min-height: 40px;
 }
