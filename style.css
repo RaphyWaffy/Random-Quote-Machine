@@ -1,7 +1,4 @@
-* {
-  font-family: 'Cormorant Unicase';
 
-}
 .html {
   background: url("https://az616578.vo.msecnd.net/files/2014/09/05/635455437327141141-1963008910_the_avatar_cycle_by_wildcard24-d6wd5m2.imgopt1400x60.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -25,7 +22,7 @@ h2 {
 
 #quote-space {
 
-  min-height: 350px;
+  min-height: 450px;
 }
 
 #trans {
