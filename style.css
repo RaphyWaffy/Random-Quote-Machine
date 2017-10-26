@@ -13,13 +13,13 @@
 h1 {
     font-family: 'Lobster Two', cursive;
     color: white;
-    font-size: 70px;
+    font-size: 60px;
 }
 
 h2 {
     font-family: 'Lobster Two', cursive;
     color: white;
-    font-size: 40px;
+    font-size: 35px;
 
 }
 
@@ -51,7 +51,7 @@ h2 {
 }
 
 .btn-default {
-  width: 100px;
+  width: 110px;
   min-height: 40px;
   margin: 2px;
 
