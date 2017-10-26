@@ -42,12 +42,14 @@ h2 {
   color:white;
   font-size: 25px;
   text-align: center;
+  font-family: 'Cormorant Unicase';
 }
 
 #currentAuthor {
   color:white;
   font-size: 25px;
   text-align: center;
+  font-family: 'Cormorant Unicase';
 }
 
 .btn-default {
@@ -58,4 +60,12 @@ h2 {
 }
 .buttonsdiv {
   text-align: center;
+}
+
+.quotesdiv{
+
+}
+
+.ss {
+  background-color: red;
 }
