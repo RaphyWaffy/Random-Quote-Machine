@@ -13,19 +13,19 @@
 h1 {
     font-family: 'Lobster Two', cursive;
     color: white;
-    font-size: 60px;
+    font-size: 40px;
 }
 
 h2 {
     font-family: 'Lobster Two', cursive;
     color: white;
-    font-size: 35px;
+    font-size: 30px;
 
 }
 
 #quote-space {
 
-  min-height: 230px;
+  min-height: 350px;
 }
 
 #trans {
