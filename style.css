@@ -41,13 +41,21 @@ h2 {
 #currentQuote {
   color:white;
   font-size: 25px;
+  text-align: center;
 }
 
 #currentAuthor {
   color:white;
   font-size: 25px;
+  text-align: center;
 }
+
 .btn-default {
-  width:100%;
+  width: 100px;
   min-height: 40px;
+  margin: 2px;
+
+}
+.buttonsdiv {
+  text-align: center;
 }
